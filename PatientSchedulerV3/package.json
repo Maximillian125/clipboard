@@ -1,6 +1,6 @@
 {
-  "name": "clipboard",
-  "version": "1.0.0",
+  "name": "patientscheduler",
+  "version": "1.2.0",
   "description": "",
   "main": "server.js",
   "scripts": {
@@ -10,8 +10,9 @@
   "author": "Max",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.18.1",
     "express": "^4.15.4",
     "path": "^0.12.7"
-  }
+  },
+  "devDependencies": {}
 }
